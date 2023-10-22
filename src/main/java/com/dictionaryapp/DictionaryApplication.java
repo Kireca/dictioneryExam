@@ -1,13 +1,12 @@
-package com.example.dictioneryexam;
+package com.dictionaryapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DictioneryExamApplication {
+public class DictionaryApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DictioneryExamApplication.class, args);
+        SpringApplication.run(DictionaryApplication.class, args);
     }
-
 }
